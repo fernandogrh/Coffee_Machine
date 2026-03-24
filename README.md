@@ -36,9 +36,9 @@ The program allows users to order coffee, select size, pay with virtual coins, o
 ## **Installation & Usage**
 1. Clone this repository:
 
-    git clone https://github.com/fernandogrh/Coffee_Machine.git
-    cd Coffee_Machine
-    python main.py
+        git clone https://github.com/fernandogrh/Coffee_Machine.git
+        cd Coffee_Machine
+        python main.py
 
 
 ## **Author**
